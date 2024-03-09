@@ -8,5 +8,6 @@ namespace VacationLogBook
 {
     class Position
     {
+        public string Electrician { get; set; }
     }
 }
