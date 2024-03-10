@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace VacationLogBook
 {
+    /// <summary>Интерфейс расчета отпуска </summary>
     interface IVacationCalculate
     {
     }

@@ -9,6 +9,15 @@ namespace VacationLogBook
     /// <summary>Должности</summary>
     class Position
     {
+        enum PositionEnum
+        {
+            Electrician,
+            Toolmaker,
+            Fitter,
+            Repairer,
+            Turner
+        }
+        /*
         /// <summary>Электрик</summary>
         public string Electrician { get; set; }
         /// <summary>Слесарь-инструментальщик</summary>
@@ -20,6 +29,6 @@ namespace VacationLogBook
         /// <summary>Наладчик оборудования</summary>
         public string Turner { get; set; }
         /// <summary>Токарь</summary>
-
+        */
     }
 }

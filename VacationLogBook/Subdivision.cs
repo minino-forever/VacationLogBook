@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace VacationLogBook
 {
+    /// <summary>Подразделения/цеха</summary>
     class Subdivision
     {
     }

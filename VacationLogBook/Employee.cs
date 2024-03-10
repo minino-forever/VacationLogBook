@@ -9,6 +9,8 @@ namespace VacationLogBook
     class Employee
     {
         public string Name { get; set; }
+        public string SurName { get; set; }
         public string LastName { get; set; }
+        public Guid ID { get; set; }
     }
 }
